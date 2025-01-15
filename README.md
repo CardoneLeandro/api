@@ -107,4 +107,4 @@ npm run dev
 
 ## Vista Previa
 
-![Vista previa de la aplicación]((https://cdn.discordapp.com/attachments/730458448730390589/1329138418248056944/Captura_de_pantalla_2025-01-15_135938.png?ex=6789401d&is=6787ee9d&hm=5b81f4b9387632b2310eda473b3c54ded003bfdcd51629838e9dc1ab4a4e3c4c&))
+![Vista previa de la aplicación]((https://leandro-cardone.imgbb.com/))
